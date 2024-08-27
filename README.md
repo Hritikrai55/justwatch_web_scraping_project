@@ -1,6 +1,6 @@
 # JustWatch Web Scraping Project
 
-This project involved scraping movie and TV show data from the JustWatch website using Selenium, BeautifulSoup, and Python. The data was then filtered and analyzed using Pandas, and the results were exported to a CSV file for further processing.
+This project involved scraping movie and TV show data from the JustWatch website using BeautifulSoup and Python. The data was then filtered and analyzed using Pandas, and the results were exported to a CSV file for further processing.
 
 ## Project Description
 
@@ -29,7 +29,7 @@ Using BeautifulSoup, the project scraped the following data:
 - **URL** to the TV show page on JustWatch
 
 #### c. Scope:
-- Scraped data for at least 50 movies and 50 TV shows.
+- Scraped data for 100 movies and 100 TV shows.
 - The entry point was based on popular movies, specific genres, etc., to ensure a diverse dataset.
 
 ### 2. Data Filtering & Analysis
